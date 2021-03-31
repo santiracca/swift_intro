@@ -3,5 +3,8 @@
     <pages>
         <page name='numbers'/>
         <page name='strings'/>
+        <page name='bools_and_comparisons'/>
+        <page name='logical_operators'/>
+        <page name='arrays'/>
     </pages>
 </playground>

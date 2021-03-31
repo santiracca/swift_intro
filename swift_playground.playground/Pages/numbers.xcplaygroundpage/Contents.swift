@@ -17,7 +17,5 @@ var health = 100
 var poisonDamage = 15
 
 health = health - poisonDamage
-print(health)
 
 
-health -= poisonDamage

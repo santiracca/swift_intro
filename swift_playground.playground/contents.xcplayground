@@ -6,5 +6,7 @@
         <page name='bools_and_comparisons'/>
         <page name='logical_operators'/>
         <page name='arrays'/>
+        <page name='loops'/>
+        <page name='dictonaries'/>
     </pages>
 </playground>

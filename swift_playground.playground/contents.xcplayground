@@ -8,5 +8,12 @@
         <page name='arrays'/>
         <page name='loops'/>
         <page name='dictonaries'/>
+        <page name='functions'/>
+        <page name='optionals'/>
+        <page name='Objects and Classes'/>
+        <page name='OOP - inheritance'/>
+        <page name='OOP - Polymorphism'/>
+        <page name='enums'/>
+        <page name='extensions'/>
     </pages>
 </playground>
